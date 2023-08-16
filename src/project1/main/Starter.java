@@ -5,5 +5,7 @@ public class Starter {
 		System.out.println("Hello World!");
 		System.out.println("Testing ... ");
 		System.out.println("Out");
+		
+		System.out.println("System report, OKAY");
 	}
 }
